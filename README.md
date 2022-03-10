@@ -1,1 +1,1 @@
-# miriamtocino.com-images
+# The image files for miriamtocino project
