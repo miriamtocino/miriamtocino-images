@@ -1,1 +1,1 @@
-The image files for [miriamtocino.com](miriamtocino.com).
+The image files for [www.miriamtocino.com](https://www.miriamtocino.com).
